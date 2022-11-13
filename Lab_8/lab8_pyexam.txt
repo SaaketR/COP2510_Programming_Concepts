@@ -1,0 +1,34 @@
+5
+fill-in-the-blank
+The Python keyword _____ allows us to define functions and methods.
+10
+def
+multiple choice
+Which of the following is *not* a pillar of object-oriented design?
+10
+c
+5
+Polymorphism
+Modularity
+Aliasing
+Encapsulation
+Inheritance
+fill-in-the-blank
+_________ is a exception caused by passing in the wrong kind of argument into a function.
+10
+TypeError
+fill-in-the-blank
+A class that represents one of the seven days of the week is an example of a(n) ____________ (two words)
+10
+enumerated type
+multiple choice
+Which of the following lines of code correctly defines Jaguar as a kind of Animal?
+10
+b
+6
+class Animal (Jaguar):
+class Jaguar (Animal):
+class Animal extends Jaguar:
+class Jaguar extends Animal:
+class Animal implements Jaguar:
+class Jaguar implements Animal:
