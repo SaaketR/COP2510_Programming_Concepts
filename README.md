@@ -25,4 +25,4 @@ It is important to note the author does not publish this collection with the int
 The author maintains that the existance of this repository on the public domain does not substitute for originality, class attendance, and/or office hours' attendance (Teaching Assistants and the Professors) by any and all students currently enrolled in the class. 
 In the spirit of upholding academic integrity, the author also strongly discourages any student currently enrolled in the "COP 2510 (Programming Concepts)" class at USF from reusing any or all of the author's published work.
 
-If any entity (including, by not limited to the University of South Florida) would like the author to private and/or delete this repository from the public domain in the name of academic integrity, please contact the author through email at saaketraman@gmail.com to discuss legal options.
+If any entity (including, but not limited to the University of South Florida) would like the author to private and/or delete this repository from the public domain in the name of academic integrity, please contact the author through email at saaketraman@gmail.com to discuss legal options.
